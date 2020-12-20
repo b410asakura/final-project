@@ -2,7 +2,7 @@
 
 *It's simple game about D. Trump.*
 
-![](/game images/game 1.png)
+![alt text](game images/game 1.png)
 
 press **UP** button for jump
 
