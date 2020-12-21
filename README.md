@@ -12,6 +12,10 @@ press **LEFT** button for going to the left
 
 press **SPACE** for shooting balls
 
+
+video presentation - https://www.youtube.com/watch?v=DLhEoBklFpI
+feedback video - https://youtu.be/rzTSV7m5fVU
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygame.
